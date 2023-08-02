@@ -1,0 +1,3 @@
+# my some configs
+1. Tmux
+2. ...
